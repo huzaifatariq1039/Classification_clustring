@@ -1,1 +1,3 @@
-# Classification_clustring
+->This is the 3rd semester project of AI in which we were tasked to perform clustering and classification on a random dataset.
+->One additional task was implementing some algorithms on the dataset.
+->I picked the iris dataset(It is a small dataset) from kaggle.
